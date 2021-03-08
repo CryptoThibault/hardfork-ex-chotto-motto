@@ -26,12 +26,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
-
+main img {
+  box-shadow: 10px 10px 0 #fee500;
+}
 
 /* les images ne dépassent pas l'écran */
 img {
   max-width: 100%;
-  box-shadow: 1.5rem solid #fee500;
+  height: auto;
+  
 }
 /* centrer les éléments de la partie header */
 header {
