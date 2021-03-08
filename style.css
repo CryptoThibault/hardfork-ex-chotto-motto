@@ -46,7 +46,8 @@ h2 {
 
 /* les éléments dans le footer centrée */
 footer {
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* taille de police plus grande (32px) dans le paragraphe intro, centré */
@@ -62,7 +63,7 @@ h2 {
 
 /* les éléments dans le footer centrée */
 footer {
-  text-align: center;
+ text-align: center;
 }
 
 /* la liste sans bullets */
